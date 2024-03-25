@@ -1,4 +1,4 @@
-# GradeMaster-
+# GradeMaster
 GradeMaster CGPA Calculator Introduction
 It is mainly created for students and educational institutions to calculate their GPA & CGPA. 
 
