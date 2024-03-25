@@ -1,6 +1,6 @@
 # GradeMaster
-GradeMaster CGPA Calculator Introduction
-It is mainly created for students and educational institutions to calculate their GPA & CGPA. 
+**GradeMaster CGPA Calculator Introduction**
+It is a C++ program mainly created for students and educational institutions to calculate their GPA & CGPA. 
 
 This program aims to help students calculate their grade point average (GPA) and cumulative grade point average (CGPA) easily based on their performance in various courses. By using a standardized program like GradeMaster GPA & CGPA, students can save time and reduce errors compared to manual calculation. It can also help them make informed decisions about their studies. 
 
